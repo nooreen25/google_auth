@@ -93,3 +93,5 @@ config.py
 
 # Database
 db.sqlite3
+
+settings.py
